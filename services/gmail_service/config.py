@@ -1,1 +1,0 @@
-# Gmail API and Kafka configs
