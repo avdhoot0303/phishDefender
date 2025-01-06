@@ -1,6 +1,0 @@
-flask
-kafka-python
-pandas
-numpy
-google-api-python-client
-scikit-learn

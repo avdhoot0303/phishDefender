@@ -1,1 +1,0 @@
-# Centralized Kafka configs
